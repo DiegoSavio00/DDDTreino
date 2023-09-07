@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Servicos", "02 - Servi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDTreino.Servico.Api", "02 - Servicos\DDDTreino.Servico.Api\DDDTreino.Servico.Api.csproj", "{69702FD0-F786-4F08-B5C9-188183FC93A1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Apresentacao", "01 - Apresentacao", "{23B49505-5B4F-44A1-8B84-4DC02F8DA8A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
